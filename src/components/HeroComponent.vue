@@ -21,11 +21,11 @@ export default {
     data () {
       return {
         slides: [
-          {image: require('./../assets/cover1.jpg')},
-          {image:require('./../assets/cover2.jpg')},
-          {image:require('./../assets/web-2.jpg')},
-          {image:require('./../assets/web-3.jpg')},
-          {image: require('./../assets/batik-saree-removebg-preview.png')}
+          {image: require('./../assets/A6a.jpg')},
+          {image:require('./../assets/A5a.jpg')},
+          {image:require('./../assets/A4a.jpg')},
+          {image:require('./../assets/A1a.jpg')},
+          {image: require('./../assets/A2a.jpg')}
         ],
         cycle: true,
         // slides: [
